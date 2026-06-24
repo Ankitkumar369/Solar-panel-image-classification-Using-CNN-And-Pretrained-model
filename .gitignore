@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE files
+.vscode/
+*.swp
+
+# Model and dataset files
+*.h5
+Data/
+
+# Streamlit files
+.streamlit/
+
+# Logs
+pushlog.txt
